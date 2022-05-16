@@ -19,5 +19,7 @@ The apk file will show:
 ## Install an APK on a device
 
 Connect your Android device to your computer with a USB cable.
-Enter `cd [project]`
+
+Enter `cd quiz-app`
+
 Run `flutter install`
