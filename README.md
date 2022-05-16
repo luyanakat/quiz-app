@@ -1,16 +1,14 @@
-# clone_first_app
+# Simple Quiz App
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone this respo
 
-A few resources to get you started if this is your first Flutter project:
+```
+cd [project]
+flutter build appbundle
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The release bundle for your app is created at [project]/build/app/outputs/bundle/release/app.aab.
