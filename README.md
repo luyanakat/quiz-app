@@ -7,7 +7,7 @@ A Flutter project.
 Clone this respo
 
 ```
-cd [project]
+cd quiz-app
 flutter build apk --split-per-abi
 ```
 The apk file will show:
