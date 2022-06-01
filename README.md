@@ -1,28 +1,22 @@
 # Simple Quiz App
 
-A Flutter project.
+Just a project to test Flutter
 
 ## Getting Started
 
 Clone this respo
-
+```bash
+flutter clean
+flutter pub get
+flutter run
 ```
-cd quiz-app
-flutter build apk --split-per-abi
-```
-The apk file will show:
-
-[project]/build/app/outputs/apk/release/app-armeabi-v7a-release.apk
-
-[project]/build/app/outputs/apk/release/app-arm64-v8a-release.apk
-
-[project]/build/app/outputs/apk/release/app-x86_64-release.apk
 
 ## Install an APK on a device
 
 Connect your Android device to your computer with a USB cable.
 
-Enter `cd quiz-app`
-
-Run `flutter install`
+```bash
+flutter build apk
+flutter install
+```
 
